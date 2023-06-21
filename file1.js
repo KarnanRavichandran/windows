@@ -2,7 +2,10 @@ import React from 'react'
 
 const file1 = () => {
   return (
+    <>
     <div>file1</div>
+      <div>new added file1</div>
+  <>
   )
 }
 
