@@ -5,6 +5,8 @@ const file2 = () => {
     <>
     <div>file2</div>
     <div>file2</div>
+    <div>file2</div>
+    <div>file2</div>  <div>file2</div>
     </>
     
   )
